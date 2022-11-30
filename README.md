@@ -1,1 +1,1 @@
-DEMO: https://antonvaida.github.io/product_catalog_FE/
+DEMO: https://error-solution.github.io/product_catalog_FE/
